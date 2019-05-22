@@ -8,14 +8,6 @@ PTBR: Esse bot, chamado \"Gilberto\" (de Wilbur \"Gilberto\" Norman Pickering), 
 
 To contribute you must understand a few things: How Sqlite works, Javascript (Nodejs), and Discord API. Just make a pull request and it will be analized.
 
-# Bíblias/Bibles
-
-https://www.mysword.info/download-mysword/bibles
-
-# Comentários/Commentaries
-
-https://www.mysword.info/download-mysword/commentaries
-
 # Commands
 
 **Comandos do bot // Bot commands =>**
